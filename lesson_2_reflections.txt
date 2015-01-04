@@ -1,0 +1,15 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates some default folder and files representing that there exists
+a repository. We initialize a repository to imply that we are using Git
+to manage the project.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A working directory is the directory that I'm currently working on. It 
+includes a 'root' directory and all files in this directory (and subdirectories).
+A repository is a history of commits.
+Staging area is not the history, and it is also not the whole directory.
+It allows us to modify whatever files in the working directory, but still commit
+what should be a logical part.
