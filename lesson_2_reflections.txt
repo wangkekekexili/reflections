@@ -19,3 +19,10 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 I can use 'git diff --staged' command to compare the changes in staging area and
 in the last commit. The changes among these files should be in a logical part.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+create experimental functionality while maintaining running codes.
+different functions/languages for different places.
+branches can have name.
