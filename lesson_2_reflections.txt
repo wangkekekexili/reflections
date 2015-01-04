@@ -13,3 +13,9 @@ A repository is a history of commits.
 Staging area is not the history, and it is also not the whole directory.
 It allows us to modify whatever files in the working directory, but still commit
 what should be a logical part.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can use 'git diff --staged' command to compare the changes in staging area and
+in the last commit. The changes among these files should be in a logical part.
