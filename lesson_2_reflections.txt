@@ -40,3 +40,7 @@ The addition and deletion are combined together.
 The HEAD commit will have two parents.
 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+It may give unwanted results.
+But it is automatic, so it is less annoying.
