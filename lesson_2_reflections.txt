@@ -26,3 +26,17 @@ What are some situations when branches would be helpful in keeping your history 
 create experimental functionality while maintaining running codes.
 different functions/languages for different places.
 branches can have name.
+
+
+How do the diagrams help you visualize the branch structure?
+
+With diagrams, I can have a clear view of where are each branches and their 
+relations.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The addition and deletion are combined together.
+The HEAD commit will have two parents.
+
+
