@@ -12,3 +12,11 @@ I'm working on my own version of an application and maybe the contents on GitHub
 are not what I need.
 
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+When there is an interesting project on GitHub that I want to add my own features
+to the project, I will use fork.
+I will use clone to make update my local version of the project. The project 
+on GitHub may be probably updated by another team member.
+When I want to add new features in my own project, I use branch to create new 
+branches.
